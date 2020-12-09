@@ -1,21 +1,20 @@
 
-# An introduction to { YOUR TOPIC } or A deep dive into { YOUR TOPIC }
-### Level: Beginner or Advanced
-### Presentation: (link to your presentation if exists)
+# [ONLINE] aggregate(PyLadies, PyAmsterdam, ETL).byebye(2020)
+### Level: Intermediate - Advanced
 
-## Workshop description
-Describe why your topic is important and what you want to share with your audience
+## Meetup description
+This meetup is co-organized with [PyAmsterdam](https://py.amsterdam/), and it's all about ETL/ELT in action.
 
-## Requirements
-Do not forget to indicate Python version and any other tools
-+ add requirements.txt or conda.yml or docker image or Binder/Google Collab link
+### Talk 1 - Data Processing with Python: a Containerized, Scheduled, and Monitored Pipeline on the Google Cloud Platform
 
-## Usage
-* Clone the repository
-* Start { TOOL } and navigate to the workshop folder
+During the talk, you will learn how to containerize a Python pipeline for data processing and execute it as a scheduled job that sends email messages for critical errors.
+
+### Talk 2 - AWS Glue: the good, the bad, the ugly
+
+AWS Glue offers Serverless ETL pipeline and workflows, while it can be rather simple to start using it via console it quickly become non trivial for deployment via CI/CD pipeline. Management of multiple environments, working with the pipeline state and keeping your code DRY is a challenge. During the talk I will walk you through guts of AWS Glue and show my approach to more streamlined deployment.
 
 ## Video record
 Will be available within 1-2 weeks after the event
 
 ## Credits
-This workshop was set up by @pyladiesams and {your github handler}
+This workshop was set up by @pyladiesams and @PyAmsterdam
