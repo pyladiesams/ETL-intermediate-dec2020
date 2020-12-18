@@ -17,4 +17,4 @@ AWS Glue offers Serverless ETL pipeline and workflows, while it can be rather si
 Will be available within 1-2 weeks after the event
 
 ## Credits
-This event was set up by @pyladiesams, @PyAmsterdam, @nancyirisarri and {TBA}
+This event was set up by @pyladiesams, @PyAmsterdam, @nancyirisarri and @1oglop1
