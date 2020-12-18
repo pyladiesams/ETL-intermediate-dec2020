@@ -7,7 +7,7 @@ This meetup is co-organized with [PyAmsterdam](https://py.amsterdam/), and it's 
 
 ### Talk 1 - Data Processing with Python: a Containerized, Scheduled, and Monitored Pipeline on the Google Cloud Platform
 
-During the talk, you will learn how to containerize a Python pipeline for data processing and execute it as a scheduled job that sends email messages for critical errors.
+During the talk, you will learn how to containerize a Python pipeline for data processing and execute it as a scheduled job that sends email messages for critical errors. The presentation can be find [here](https://github.com/pyladiesams/ETL-intermediate-dec2020/blob/master/presentations/pyladies-amsterdam-etl-slides.pdf)
 
 ### Talk 2 - AWS Glue: the good, the bad, the ugly
 
@@ -17,4 +17,4 @@ AWS Glue offers Serverless ETL pipeline and workflows, while it can be rather si
 Will be available within 1-2 weeks after the event
 
 ## Credits
-This workshop was set up by @pyladiesams and @PyAmsterdam
+This event was set up by @pyladiesams, @PyAmsterdam, @nancyirisarri and {TBA}
