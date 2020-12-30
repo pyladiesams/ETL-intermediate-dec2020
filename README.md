@@ -11,10 +11,10 @@ During the talk, you will learn how to containerize a Python pipeline for data p
 
 ### Talk 2 - AWS Glue: the good, the bad, the ugly
 
-AWS Glue offers Serverless ETL pipeline and workflows, while it can be rather simple to start using it via console it quickly become non trivial for deployment via CI/CD pipeline. Management of multiple environments, working with the pipeline state and keeping your code DRY is a challenge. During the talk I will walk you through guts of AWS Glue and show my approach to more streamlined deployment. The presentation can be find here. The repo with code here.
+AWS Glue offers Serverless ETL pipeline and workflows, while it can be rather simple to start using it via console it quickly become non trivial for deployment via CI/CD pipeline. Management of multiple environments, working with the pipeline state and keeping your code DRY is a challenge. During the talk I will walk you through guts of AWS Glue and show my approach to more streamlined deployment. The presentation can be find here. The repo with code [here](https://github.com/1oglop1/aws-glue-monorepo-style).
 
 ## Video record
-Video recording available here: https://bit.ly/3rza70O
+Video recording available [here](https://bit.ly/3rza70O)
 
 ## Credits
 This event was set up by @pyladiesams, @PyAmsterdam, @nancyirisarri and @1oglop1
