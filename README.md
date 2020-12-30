@@ -3,7 +3,7 @@
 ### Level: Intermediate - Advanced
 
 ## Meetup description
-This meetup is co-organized with [PyAmsterdam](https://py.amsterdam/), and it's all about ETL/ELT in action.
+This meetup is co-organized with [PyAmsterdam](https://py.amsterdam/), and it's all about ETL/ELT in action in the cloud.
 
 ### Talk 1 - Data Processing with Python: a Containerized, Scheduled, and Monitored Pipeline on the Google Cloud Platform
 
@@ -11,7 +11,7 @@ During the talk, you will learn how to containerize a Python pipeline for data p
 
 ### Talk 2 - AWS Glue: the good, the bad, the ugly
 
-AWS Glue offers Serverless ETL pipeline and workflows, while it can be rather simple to start using it via console it quickly become non trivial for deployment via CI/CD pipeline. Management of multiple environments, working with the pipeline state and keeping your code DRY is a challenge. During the talk I will walk you through guts of AWS Glue and show my approach to more streamlined deployment. The presentation can be find here. The repo with code [here](https://github.com/1oglop1/aws-glue-monorepo-style).
+AWS Glue offers Serverless ETL pipeline and workflows, while it can be rather simple to start using it via console it quickly become non trivial for deployment via CI/CD pipeline. Management of multiple environments, working with the pipeline state and keeping your code DRY is a challenge. During the talk I will walk you through guts of AWS Glue and show my approach to more streamlined deployment. The presentation can be find [here](http://slides.com/oglopzelgo/aws-glue-pyamsterdam). The repo with code [here](https://github.com/1oglop1/aws-glue-monorepo-style).
 
 ## Video record
 [Video record](https://bit.ly/3rza70O)
